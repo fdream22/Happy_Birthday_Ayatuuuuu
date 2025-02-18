@@ -115,7 +115,7 @@ const animationTimeline = () => {
       {
         backgroundColor: "rgb(127, 206, 248)",
       },
-      //"+=4"
+      "+=1"
     )
     .to(
       ".four",
